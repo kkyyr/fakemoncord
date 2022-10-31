@@ -1,0 +1,615 @@
+[
+    {
+        "id": 52,
+        "name": {
+            "english": "Meowth",
+            "japanese": "\u30cb\u30e3\u30fc\u30b9",
+            "chinese": "\u55b5\u55b5",
+            "french": "Miaouss",
+			"jp (romaji)": "Nyaasu"
+        },
+        "type": [
+            "Normal"
+        ],
+        "stats": {
+            "HP": 40,
+            "Attack": 45,
+            "Defence": 35,
+            "Sp. Atk": 40,
+            "Sp. Def": 40,
+            "Speed": 90
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Meowth"
+    },
+    {
+        "id": 77,
+        "name": {
+            "english": "Ponyta",
+            "japanese": "\u30dd\u30cb\u30fc\u30bf",
+            "chinese": "\u5c0f\u706b\u99ac",
+            "french": "Ponyta",
+			"jp (romaji)": "Poniita"
+        },
+        "type": [
+            "Fire"
+        ],
+        "stats": {
+            "HP": 50,
+            "Attack": 85,
+            "Defence": 55,
+            "Sp. Atk": 65,
+            "Sp. Def": 65,
+            "Speed": 90
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Ponyta"
+    },
+    {
+        "id": 78,
+        "name": {
+            "english": "Rapidash",
+            "japanese": "\u30ae\u30e3\u30ed\u30c3\u30d7",
+            "chinese": "\u70c8\u7130\u99ac",
+            "french": "Galopa",
+			"jp (romaji)": "Gyaroppu"
+        },
+        "type": [
+            "Fire"
+        ],
+        "stats": {
+            "HP": 65,
+            "Attack": 100,
+            "Defence": 70,
+            "Sp. Atk": 80,
+            "Sp. Def": 80,
+            "Speed": 105
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Rapidash"
+    },
+    {
+        "id": 79,
+        "name": {
+            "english": "Slowpoke",
+            "japanese": "\u30e4\u30c9\u30f3",
+            "chinese": "\u5446\u5446\u7378",
+            "french": "Ramoloss",
+			"jp (romaji)": "Yadon"
+        },
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "HP": 90,
+            "Attack": 65,
+            "Defence": 65,
+            "Sp. Atk": 40,
+            "Sp. Def": 40,
+            "Speed": 15
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Slowpoke"
+    },
+    {
+        "id": 80,
+        "name": {
+            "english": "Slowbro",
+            "japanese": "\u30e4\u30c9\u30e9\u30f3",
+            "chinese": "\u5446\u6bbc\u7378",
+            "french": "Flagadoss",
+			"jp (romaji)": "Yadoran"
+        },
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "HP": 95,
+            "Attack": 75,
+            "Defence": 110,
+            "Sp. Atk": 100,
+            "Sp. Def": 80,
+            "Speed": 30
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Slowbro"
+    },
+    {
+        "id": 83,
+        "name": {
+            "english": "Farfetch'd",
+            "japanese": "\u30ab\u30e2\u30cd\u30ae",
+            "chinese": "\u5927\u8525\u9d28",
+            "french": "Canarticho",
+			"jp (romaji)": "Kamonegi"
+        },
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "stats": {
+            "HP": 52,
+            "Attack": 90,
+            "Defence": 55,
+            "Sp. Atk": 58,
+            "Sp. Def": 62,
+            "Speed": 60
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Farfetch'd"
+    },
+    {
+        "id": 110,
+        "name": {
+            "english": "Weezing",
+            "japanese": "\u30de\u30bf\u30c9\u30ac\u30b9",
+            "chinese": "\u96d9\u5f48\u74e6\u65af",
+            "french": "Smogogo",
+			"jp (romaji)": "Matadogasu"
+        },
+        "type": [
+            "Poison"
+        ],
+        "stats": {
+            "HP": 65,
+            "Attack": 90,
+            "Defence": 120,
+            "Sp. Atk": 85,
+            "Sp. Def": 70,
+            "Speed": 60
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Weezing"
+    },
+    {
+        "id": 122,
+        "name": {
+            "english": "Mr. Mime",
+            "japanese": "\u30d0\u30ea\u30e4\u30fc\u30c9",
+            "chinese": "\u9b54\u7246\u4eba\u5076",
+            "french": "M. Mime",
+			"jp (romaji)": "Bariyaado"
+        },
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "stats": {
+            "HP": 40,
+            "Attack": 45,
+            "Defence": 65,
+            "Sp. Atk": 100,
+            "Sp. Def": 120,
+            "Speed": 90
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Mr. Mime"
+    },
+    {
+        "id": 144,
+        "name": {
+            "english": "Articuno",
+            "japanese": "\u30d5\u30ea\u30fc\u30b6\u30fc",
+            "chinese": "\u6025\u51cd\u9ce5",
+            "french": "Artikodin",
+			"jp (romaji)": "Furiizaa"
+        },
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "stats": {
+            "HP": 90,
+            "Attack": 85,
+            "Defence": 85,
+            "Sp. Atk": 125,
+            "Sp. Def": 100,
+            "Speed": 95
+        },
+        "spawnchance": 0.00015,
+        "variant": "Galarian",
+        "alias": "Galarian Articuno"
+    },
+    {
+        "id": 145,
+        "name": {
+            "english": "Zapdos",
+            "japanese": "\u30b5\u30f3\u30c0\u30fc",
+            "chinese": "\u9583\u96fb\u9ce5",
+            "french": "\u00c9lecthor",
+			"jp (romaji)": "Sandaa"
+        },
+        "type": [
+            "Fighting",
+            "Flying"
+        ],
+        "stats": {
+            "HP": 90,
+            "Attack": 125,
+            "Defence": 90,
+            "Sp. Atk": 85,
+            "Sp. Def": 90,
+            "Speed": 100
+        },
+        "spawnchance": 0.00015,
+        "variant": "Galarian",
+        "alias": "Galarian Zapdos"
+    },
+    {
+        "id": 146,
+        "name": {
+            "english": "Moltres",
+            "japanese": "\u30d5\u30a1\u30a4\u30e4\u30fc",
+            "chinese": "\u706b\u7130\u9ce5",
+            "french": "Sulfura",
+			"jp (romaji)": "Faiyaa"
+        },
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "stats": {
+            "HP": 90,
+            "Attack": 85,
+            "Defence": 90,
+            "Sp. Atk": 100,
+            "Sp. Def": 125,
+            "Speed": 90
+        },
+        "spawnchance": 0.00015,
+        "variant": "Galarian",
+        "alias": "Galarian Moltres"
+    },
+    {
+        "id": 199,
+        "name": {
+            "english": "Slowking",
+            "japanese": "\u30e4\u30c9\u30ad\u30f3\u30b0",
+            "chinese": "\u5446\u5446\u738b",
+            "french": "Roigada",
+			"jp (romaji)": "Yadokingu"
+        },
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "HP": 95,
+            "Attack": 75,
+            "Defence": 80,
+            "Sp. Atk": 100,
+            "Sp. Def": 110,
+            "Speed": 30
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Slowking"
+    },
+    {
+        "id": 222,
+        "name": {
+            "english": "Corsola",
+            "japanese": "\u30b5\u30cb\u30fc\u30b4",
+            "chinese": "\u592a\u967d\u73ca\u745a",
+            "french": "Corayon",
+			"jp (romaji)": "Saniigo"
+        },
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "stats": {
+            "HP": 65,
+            "Attack": 55,
+            "Defence": 95,
+            "Sp. Atk": 65,
+            "Sp. Def": 95,
+            "Speed": 35
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Corsola"
+    },
+    {
+        "id": 263,
+        "name": {
+            "english": "Zigzagoon",
+            "japanese": "\u30b8\u30b0\u30b6\u30b0\u30de",
+            "chinese": "\u86c7\u7d0b\u718a",
+            "french": "Zigzaton",
+			"jp (romaji)": "Jiguzaguma"
+        },
+        "type": [
+            "Normal"
+        ],
+        "stats": {
+            "HP": 38,
+            "Attack": 30,
+            "Defence": 41,
+            "Sp. Atk": 30,
+            "Sp. Def": 41,
+            "Speed": 60
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Zigzagoon"
+    },
+    {
+        "id": 264,
+        "name": {
+            "english": "Linoone",
+            "japanese": "\u30de\u30c3\u30b9\u30b0\u30de",
+            "chinese": "\u76f4\u885d\u718a",
+            "french": "Lin\u00e9on",
+			"jp (romaji)": "Massuguma"
+        },
+        "type": [
+            "Normal"
+        ],
+        "stats": {
+            "HP": 78,
+            "Attack": 70,
+            "Defence": 61,
+            "Sp. Atk": 50,
+            "Sp. Def": 61,
+            "Speed": 100
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Linoone"
+    },
+    {
+        "id": 554,
+        "name": {
+            "english": "Darumaka",
+            "japanese": "\u30c0\u30eb\u30de\u30c3\u30ab",
+            "chinese": "\u706b\u7d05\u4e0d\u5012\u7fc1",
+            "french": "Darumarond",
+			"jp (romaji)": "Darumakka"
+        },
+        "type": [
+            "Fire"
+        ],
+        "stats": {
+            "HP": 70,
+            "Attack": 90,
+            "Defence": 45,
+            "Sp. Atk": 15,
+            "Sp. Def": 45,
+            "Speed": 50
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Darumaka"
+    },
+    {
+        "id": 555,
+        "name": {
+            "english": "Darmanitan",
+            "japanese": "\u30d2\u30d2\u30c0\u30eb\u30de",
+            "chinese": "\u9054\u6469\u72d2\u72d2",
+            "french": "Darumacho",
+			"jp (romaji)": "Hihidaruma"
+        },
+        "type": [
+            "Fire"
+        ],
+        "stats": {
+            "HP": 105,
+            "Attack": 140,
+            "Defence": 55,
+            "Sp. Atk": 30,
+            "Sp. Def": 55,
+            "Speed": 95
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Darmanitan"
+    },
+    {
+        "id": 562,
+        "name": {
+            "english": "Yamask",
+            "japanese": "\u30c7\u30b9\u30de\u30b9",
+            "chinese": "\u54ed\u54ed\u9762\u5177",
+            "french": "Tutafeh",
+			"jp (romaji)": "Desumasu"
+        },
+        "type": [
+            "Ghost"
+        ],
+        "stats": {
+            "HP": 38,
+            "Attack": 30,
+            "Defence": 85,
+            "Sp. Atk": 55,
+            "Sp. Def": 65,
+            "Speed": 30
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Yamask"
+    },
+    {
+        "id": 618,
+        "name": {
+            "english": "Stunfisk",
+            "japanese": "\u30de\u30c3\u30ae\u30e7",
+            "chinese": "\u6ce5\u5df4\u9b5a",
+            "french": "Limonde",
+			"jp (romaji)": "Maggyo"
+        },
+        "type": [
+            "Ground",
+            "Electric"
+        ],
+        "stats": {
+            "HP": 109,
+            "Attack": 66,
+            "Defence": 84,
+            "Sp. Atk": 81,
+            "Sp. Def": 99,
+            "Speed": 32
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Stunfisk"
+    },
+    {
+        "id": 862,
+        "name": {
+            "english": "Obstagoon",
+            "japanese": "\u30bf\u30c1\u30d5\u30b5\u30b0\u30de",
+            "chinese": "\u5835\u6514\u718a",
+            "french": "Ixon",
+			"jp (romaji)": "Tachifusaguma"
+        },
+        "type": [
+            "Dark",
+            "Normal"
+        ],
+        "stats": {
+            "HP": 93,
+            "Attack": 90,
+            "Defence": 101,
+            "Sp. Atk": 60,
+            "Sp. Def": 81,
+            "Speed": 95
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Obstagoon"
+    },
+    {
+        "id": 863,
+        "name": {
+            "english": "Perrserker",
+            "japanese": "\u30cb\u30e3\u30a4\u30ad\u30f3\u30b0",
+            "chinese": "\u55b5\u982d\u76ee",
+            "french": "Berserkatt",
+			"jp (romaji)": "Nyaikingu"
+        },
+        "type": [
+            "Steel"
+        ],
+        "stats": {
+            "HP": 70,
+            "Attack": 110,
+            "Defence": 100,
+            "Sp. Atk": 50,
+            "Sp. Def": 60,
+            "Speed": 50
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Perrserker"
+    },
+    {
+        "id": 864,
+        "name": {
+            "english": "Cursola",
+            "japanese": "\u30b5\u30cb\u30b4\u30fc\u30f3",
+            "chinese": "\u9b54\u9748\u73ca\u745a",
+            "french": "Coray\u00f4me",
+			"jp (romaji)": "Sanigoon"
+        },
+        "type": [
+            "Ghost"
+        ],
+        "stats": {
+            "HP": 60,
+            "Attack": 95,
+            "Defence": 50,
+            "Sp. Atk": 145,
+            "Sp. Def": 130,
+            "Speed": 30
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Cursola"
+    },
+    {
+        "id": 865,
+        "name": {
+            "english": "Sirfetch'd",
+            "japanese": "\u30cd\u30ae\u30ac\u30ca\u30a4\u30c8",
+            "chinese": "\u8525\u904a\u5175",
+            "french": "Palarticho",
+			"jp (romaji)": "Negiganaito"
+        },
+        "type": [
+            "Fighting"
+        ],
+        "stats": {
+            "HP": 62,
+            "Attack": 135,
+            "Defence": 95,
+            "Sp. Atk": 68,
+            "Sp. Def": 82,
+            "Speed": 65
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Sirfetch'd"
+    },
+    {
+        "id": 866,
+        "name": {
+            "english": "Mr. Rime",
+            "japanese": "\u30d0\u30ea\u30b3\u30aa\u30eb",
+            "chinese": "\u8e0f\u51b0\u4eba\u5076",
+            "french": "M. Glaquette",
+			"jp (romaji)": "Barikooru"
+        },
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "stats": {
+            "HP": 80,
+            "Attack": 85,
+            "Defence": 75,
+            "Sp. Atk": 110,
+            "Sp. Def": 100,
+            "Speed": 70
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Mr. Rime"
+    },
+    {
+        "id": 867,
+        "name": {
+            "english": "Runerigus",
+            "japanese": "\u30c7\u30b9\u30d0\u30fc\u30f3",
+            "chinese": "\u6b7b\u795e\u677f",
+            "french": "Tut\u00e9t\u00e9kri",
+			"jp (romaji)": "Desubaan"
+        },
+        "type": [
+            "Ground",
+            "Ghost"
+        ],
+        "stats": {
+            "HP": 58,
+            "Attack": 95,
+            "Defence": 145,
+            "Sp. Atk": 50,
+            "Sp. Def": 105,
+            "Speed": 30
+        },
+        "spawnchance": 0.15,
+        "variant": "Galarian",
+        "alias": "Galarian Runerigus"
+    }
+]
