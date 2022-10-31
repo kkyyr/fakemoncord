@@ -1,0 +1,20 @@
+{
+    "author": [
+        "flare(flare#0001)"
+    ],
+    "install_msg": "THIS COG IS NOT MAINTAINED. Thanks for installing and testing out the Pokecord rewrite for Red. If any errors occur, post in the #support-flare-cogs in the Red 3rd party server.",
+    "name": "Fakemoncord",
+    "disabled": false,
+    "short": "Fakemoncord for Red.",
+    "description": "Fakemoncord for Red.",
+    "tags": [
+        "pokemon",
+        "pokecord"
+    ],
+    "requirements": [
+        "tabulate",
+        "databases",
+        "databases[sqlite]"
+    ],
+    "hidden": false
+}
